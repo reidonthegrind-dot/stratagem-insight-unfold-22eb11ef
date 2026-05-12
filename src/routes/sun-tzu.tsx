@@ -31,7 +31,7 @@ function SunTzuPage() {
           </Term>{" "}
           is the market itself. It includes the customers, the rules, the rival companies, and even
           the mood of the public. A founder who launches a product without studying that ground has,
-          by Sun Tzu's standard, already lost <Cite>(Tzu, Griffith trans., ch. X)</Cite>.
+          by Sun Tzu's standard, already lost.
         </p>
         <p>
           For marketing, this is very direct. You need to know who you are talking to (the terrain) and
