@@ -86,7 +86,11 @@ function MachPage() {
           even when policy requires the opposite <Cite>(Machiavelli, Marriott trans., ch. XVIII)</Cite>. The
           modern CEO has inherited this exactly. Public-facing transparency reports, mission statements about
           "doing the right thing," carefully staged town halls — these are the Renaissance virtues in HR clothing.
-          The most Machiavellian move available to a 21st-century executive is to look the least Machiavellian.
+          The most{" "}
+          <Term definition="Describes behavior that is cunning, manipulative, and willing to use deception or harsh tactics to gain or keep power — named after Niccolò Machiavelli.">
+            Machiavellian
+          </Term>{" "}
+          move available to a 21st-century executive is to look the least Machiavellian.
         </p>
       </Section>
 
