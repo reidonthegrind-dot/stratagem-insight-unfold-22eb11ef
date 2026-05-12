@@ -97,7 +97,7 @@ function MachPage() {
       </Section>
 
       <Pullquote>
-        Modern business preaches transparency. The Prince teaches the performance of it.
+        Modern business preaches openness. The Prince teaches how to perform it.
       </Pullquote>
 
       <div className="mt-16 flex flex-wrap gap-4">
