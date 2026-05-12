@@ -40,10 +40,22 @@ function MachPage() {
 
       <Section title="2. The lion and the fox.">
         <p>
-          A leader, Machiavelli writes, must be both a lion (to frighten wolves) and a fox (to recognize traps)
+          A leader, Machiavelli writes, must be both a{" "}
+          <Term definition="Machiavelli's image of the leader who relies on raw strength and intimidation to scare off threats — powerful but easily trapped.">
+            lion
+          </Term>{" "}
+          (to frighten wolves) and a{" "}
+          <Term definition="Machiavelli's image of the leader who relies on cunning, deception, and pattern-recognition to spot traps — clever but unable to fight off real predators alone.">
+            fox
+          </Term>{" "}
+          (to recognize traps)
           <Cite>(Machiavelli, Marriott trans., ch. XVIII)</Cite>. Today's executive embodies this hybrid daily:
           the lion appears in the all-hands speech and the press cycle; the fox shows up in the closed-door
-          negotiation, the legal strategy, the timing of an acquisition.
+          negotiation, the legal strategy, the timing of an{" "}
+          <Term definition="When one company buys another and absorbs its assets, employees, or product line.">
+            acquisition
+          </Term>
+          .
         </p>
       </Section>
 
