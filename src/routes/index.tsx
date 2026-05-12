@@ -75,7 +75,7 @@ function Index() {
           tag="The Eastern General"
           name="Sun Tzu"
           work="The Art of War (c. 5th century BCE)"
-          line="Win before the fight. Know the terrain. Render the rival's strategy useless."
+          line="Win before the fight starts. Know the ground. Make your rival's plan useless."
           accent="jade"
         />
         <ThinkerCard
