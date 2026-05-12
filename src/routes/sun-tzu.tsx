@@ -76,8 +76,15 @@ function SunTzuPage() {
       <Section title="4. Speed and psychological dominance.">
         <p>
           Sun Tzu prizes speed: a campaign drawn out too long drains the treasury and the morale of the troops
-          <Cite>(Tzu, Griffith trans., ch. II)</Cite>. In the modern startup vocabulary this is "shipping fast,"
-          "first-mover advantage," and "blitzscaling." The psychological half is just as old: a competitor who
+          <Cite>(Tzu, Griffith trans., ch. II)</Cite>. In the modern startup vocabulary this is "shipping fast,"{" "}
+          <Term definition="The competitive edge a company gains by being the first to enter a new market — capturing customers, brand recognition, and key partnerships before rivals arrive.">
+            "first-mover advantage,"
+          </Term>{" "}
+          and{" "}
+          <Term definition="A startup tactic, coined by Reid Hoffman, of prioritizing breakneck growth over efficiency in order to dominate a market before competitors can react.">
+            "blitzscaling."
+          </Term>{" "}
+          The psychological half is just as old: a competitor who
           believes they have already lost will stop investing in the fight.
         </p>
       </Section>
