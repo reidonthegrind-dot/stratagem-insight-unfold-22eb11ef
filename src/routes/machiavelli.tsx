@@ -68,8 +68,15 @@ function MachPage() {
         </p>
         <p>
           Modern parallel: companies that rely solely on cultural affection ("we're a family") collapse the
-          instant the market turns. Companies that combine genuine loyalty with structural consequence —
-          equity vesting, non-competes, performance review — outlast the mood.
+          instant the market turns. Companies that combine genuine loyalty with structural consequence —{" "}
+          <Term definition="A schedule that gives employees ownership of company stock gradually over time, so they only fully earn it if they stay long enough.">
+            equity vesting
+          </Term>
+          ,{" "}
+          <Term definition="A clause in an employment contract that bars a worker from joining a competitor for a set period after leaving.">
+            non-competes
+          </Term>
+          , performance review — outlast the mood.
         </p>
       </Section>
 
