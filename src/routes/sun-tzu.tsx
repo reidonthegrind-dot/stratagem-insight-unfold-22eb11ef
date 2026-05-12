@@ -24,23 +24,23 @@ function SunTzuPage() {
 
       <Section title="1. Know the terrain — know the market.">
         <p>
-          Sun Tzu insists that victory belongs to the commander who reads the ground before stepping on it.
-          Translated into business, the{" "}
+          Sun Tzu says victory belongs to the leader who studies the ground before stepping onto it.
+          In business, the{" "}
           <Term definition="In Sun Tzu, the physical ground of battle. In business, the full landscape a company operates in: customers, regulators, competitors, and cultural mood.">
             "terrain"
           </Term>{" "}
-          is the market itself: the customers, the regulators, the
-          competitors, the cultural mood. A founder launching a product without studying the terrain is, by
-          Sun Tzu's standard, already defeated <Cite>(Tzu, Griffith trans., ch. X)</Cite>.
+          is the market itself. It includes the customers, the rules, the rival companies, and even
+          the mood of the public. A founder who launches a product without studying that ground has,
+          by Sun Tzu's standard, already lost <Cite>(Tzu, Griffith trans., ch. X)</Cite>.
         </p>
         <p>
-          From a marketing standpoint this becomes literal: you must know who you are speaking to (the terrain)
-          and who else is speaking to them (the opponent). A strong{" "}
+          For marketing, this is very direct. You need to know who you are talking to (the terrain) and
+          who else is talking to them (the rival). A smart{" "}
           <Term definition="A person who plans long-term moves to gain advantage, weighing strengths, weaknesses, timing, and the moves of others — not just executing tactics.">
             strategist
           </Term>{" "}
-          with a smaller budget can still
-          win because they have mapped the ground their rival is fumbling across blindly.
+          with a smaller budget can still win, because they understand the ground their rival is
+          stumbling across.
         </p>
       </Section>
 
