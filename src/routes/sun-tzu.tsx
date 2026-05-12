@@ -62,7 +62,11 @@ function SunTzuPage() {
 
       <Section title="3. Attack weakness, not strength.">
         <p>
-          Sun Tzu warns against frontal assault on a fortified position. McNeilly maps this directly onto
+          Sun Tzu warns against{" "}
+          <Term definition="A direct, head-on attack against the strongest, most defended part of an opponent — usually costly and rarely decisive.">
+            frontal assault
+          </Term>{" "}
+          on a fortified position. McNeilly maps this directly onto
           competitive strategy — exploit a competitor's strategic gaps instead of meeting their strengths
           <Cite>(McNeilly 71–94)</Cite>. Microsoft's early dominance, he argues, came not from out-engineering IBM
           but from occupying the operating-system seat that IBM had left lightly defended.
