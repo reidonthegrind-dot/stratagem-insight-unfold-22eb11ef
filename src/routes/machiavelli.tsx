@@ -48,8 +48,8 @@ function MachPage() {
           <Term definition="Machiavelli's image of the leader who relies on cunning, deception, and pattern-recognition to spot traps — clever but unable to fight off real predators alone.">
             fox
           </Term>{" "}
-          (to spot traps)
-          <Cite>(Machiavelli, Marriott trans., ch. XVIII)</Cite>. Today's CEO does both jobs every week.
+          (to spot traps).
+          Today's CEO does both jobs every week.
           The lion shows up in the big speech to staff and in the press. The fox shows up in private
           meetings, in legal moves, and in the timing of an{" "}
           <Term definition="When one company buys another and absorbs its assets, employees, or product line.">
