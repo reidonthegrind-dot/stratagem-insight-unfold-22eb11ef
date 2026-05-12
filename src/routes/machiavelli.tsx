@@ -23,8 +23,8 @@ function MachPage() {
 
       <Section title="1. The first job: keep the state alive.">
         <p>
-          Machiavelli's prince has one main job: make sure his state survives
-          <Cite>(Machiavelli, Marriott trans., ch. III)</Cite>. The modern version is easy to see.
+          Machiavelli's prince has one main job: make sure his state survives.
+          The modern version is easy to see.
           A CEO's first job, in the eyes of the board, is to keep the company strong and{" "}
           <Term definition="A company's ability to pay its debts and keep operating without going bankrupt.">
             solvent
