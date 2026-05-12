@@ -22,9 +22,9 @@ function Index() {
             of Quarters <span className="italic text-accent">&</span> Markets.
           </h1>
           <p className="mt-6 max-w-xl text-lg text-muted-foreground">
-            How do the philosophies of <strong className="text-foreground">Sun Tzu</strong> and{" "}
-            <strong className="text-foreground">Niccolò Machiavelli</strong> still pull the strings of today's
-            boardrooms, market entries, and corporate power plays?
+            How do the ideas of <strong className="text-foreground">Sun Tzu</strong> and{" "}
+            <strong className="text-foreground">Niccolò Machiavelli</strong> still shape the way modern
+            companies fight for power, customers, and control?
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link to="/sun-tzu" className="rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground hover:bg-primary/90 transition">
