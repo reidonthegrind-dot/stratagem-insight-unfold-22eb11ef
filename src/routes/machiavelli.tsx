@@ -25,8 +25,15 @@ function MachPage() {
         <p>
           Machiavelli's prince serves one master: the continued existence of his state
           <Cite>(Machiavelli, Marriott trans., ch. III)</Cite>. The modern translation is unmistakable —
-          a CEO's first duty, in the eyes of the board, is the continued solvency and dominance of the company.
-          Layoffs, pivots, and shutdowns are not failures of ethics inside this framework; they are stabilizing
+          a CEO's first duty, in the eyes of the board, is the continued{" "}
+          <Term definition="A company's ability to pay its debts and keep operating without going bankrupt.">
+            solvency
+          </Term>{" "}
+          and dominance of the company. Layoffs,{" "}
+          <Term definition="A deliberate change in a company's strategy, product, or market when the original plan isn't working.">
+            pivots
+          </Term>
+          , and shutdowns are not failures of ethics inside this framework; they are stabilizing
           maneuvers.
         </p>
       </Section>
