@@ -21,20 +21,20 @@ function MachPage() {
         Read today, with a company org chart in place of an old map of Florence, it feels surprisingly modern.
       </p>
 
-      <Section title="1. The primary duty: stability of the state.">
+      <Section title="1. The first job: keep the state alive.">
         <p>
-          Machiavelli's prince serves one master: the continued existence of his state
-          <Cite>(Machiavelli, Marriott trans., ch. III)</Cite>. The modern translation is unmistakable —
-          a CEO's first duty, in the eyes of the board, is the continued{" "}
+          Machiavelli's prince has one main job: make sure his state survives
+          <Cite>(Machiavelli, Marriott trans., ch. III)</Cite>. The modern version is easy to see.
+          A CEO's first job, in the eyes of the board, is to keep the company strong and{" "}
           <Term definition="A company's ability to pay its debts and keep operating without going bankrupt.">
-            solvency
-          </Term>{" "}
-          and dominance of the company. Layoffs,{" "}
+            solvent
+          </Term>
+          . Layoffs, sudden{" "}
           <Term definition="A deliberate change in a company's strategy, product, or market when the original plan isn't working.">
             pivots
           </Term>
-          , and shutdowns are not failures of ethics inside this framework; they are stabilizing
-          maneuvers.
+          , and shutdowns are not seen as wrong inside this view. They are moves that keep the company
+          standing.
         </p>
       </Section>
 
