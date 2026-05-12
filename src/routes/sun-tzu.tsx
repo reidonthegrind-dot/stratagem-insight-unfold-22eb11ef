@@ -76,8 +76,8 @@ function SunTzuPage() {
 
       <Section title="4. Speed and the mind game.">
         <p>
-          Sun Tzu values speed. A war that drags on too long burns through money and wears down the soldiers
-          <Cite>(Tzu, Griffith trans., ch. II)</Cite>. In the startup world today, people call this
+          Sun Tzu values speed. A war that drags on too long burns through money and wears down the soldiers.
+          In the startup world today, people call this
           "shipping fast,"{" "}
           <Term definition="The competitive edge a company gains by being the first to enter a new market — capturing customers, brand recognition, and key partnerships before rivals arrive.">
             "first-mover advantage,"
