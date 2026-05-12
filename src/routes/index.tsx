@@ -83,7 +83,7 @@ function Index() {
           tag="The Western Prince"
           name="Niccolò Machiavelli"
           work="The Prince (1532)"
-          line="Hold the state. Be lion and fox. Be feared, if love is uncertain."
+          line="Hold the state. Be lion and fox. Be feared if you cannot be loved."
           accent="crimson"
         />
       </section>
