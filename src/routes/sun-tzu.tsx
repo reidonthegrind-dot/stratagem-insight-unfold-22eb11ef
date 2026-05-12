@@ -68,8 +68,8 @@ function SunTzuPage() {
             frontal assault
           </Term>{" "}
           on a strong position. McNeilly applies this idea to business by saying you should look for the
-          gaps a rival has left open instead of fighting them where they are strongest
-          <Cite>(McNeilly 71–94)</Cite>. He says Microsoft did not win by building better tech than IBM.
+          gaps a rival has left open instead of fighting them where they are strongest.
+          He says Microsoft did not win by building better tech than IBM.
           It won by claiming the operating system, a spot IBM was barely guarding.
         </p>
       </Section>
