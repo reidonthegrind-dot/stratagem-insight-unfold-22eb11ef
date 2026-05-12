@@ -1,4 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
+import { Term } from "@/components/Term";
 
 export const Route = createFileRoute("/machiavelli")({
   head: () => ({
@@ -24,18 +25,37 @@ function MachPage() {
         <p>
           Machiavelli's prince serves one master: the continued existence of his state
           <Cite>(Machiavelli, Marriott trans., ch. III)</Cite>. The modern translation is unmistakable —
-          a CEO's first duty, in the eyes of the board, is the continued solvency and dominance of the company.
-          Layoffs, pivots, and shutdowns are not failures of ethics inside this framework; they are stabilizing
+          a CEO's first duty, in the eyes of the board, is the continued{" "}
+          <Term definition="A company's ability to pay its debts and keep operating without going bankrupt.">
+            solvency
+          </Term>{" "}
+          and dominance of the company. Layoffs,{" "}
+          <Term definition="A deliberate change in a company's strategy, product, or market when the original plan isn't working.">
+            pivots
+          </Term>
+          , and shutdowns are not failures of ethics inside this framework; they are stabilizing
           maneuvers.
         </p>
       </Section>
 
       <Section title="2. The lion and the fox.">
         <p>
-          A leader, Machiavelli writes, must be both a lion (to frighten wolves) and a fox (to recognize traps)
+          A leader, Machiavelli writes, must be both a{" "}
+          <Term definition="Machiavelli's image of the leader who relies on raw strength and intimidation to scare off threats — powerful but easily trapped.">
+            lion
+          </Term>{" "}
+          (to frighten wolves) and a{" "}
+          <Term definition="Machiavelli's image of the leader who relies on cunning, deception, and pattern-recognition to spot traps — clever but unable to fight off real predators alone.">
+            fox
+          </Term>{" "}
+          (to recognize traps)
           <Cite>(Machiavelli, Marriott trans., ch. XVIII)</Cite>. Today's executive embodies this hybrid daily:
           the lion appears in the all-hands speech and the press cycle; the fox shows up in the closed-door
-          negotiation, the legal strategy, the timing of an acquisition.
+          negotiation, the legal strategy, the timing of an{" "}
+          <Term definition="When one company buys another and absorbs its assets, employees, or product line.">
+            acquisition
+          </Term>
+          .
         </p>
       </Section>
 
@@ -48,8 +68,15 @@ function MachPage() {
         </p>
         <p>
           Modern parallel: companies that rely solely on cultural affection ("we're a family") collapse the
-          instant the market turns. Companies that combine genuine loyalty with structural consequence —
-          equity vesting, non-competes, performance review — outlast the mood.
+          instant the market turns. Companies that combine genuine loyalty with structural consequence —{" "}
+          <Term definition="A schedule that gives employees ownership of company stock gradually over time, so they only fully earn it if they stay long enough.">
+            equity vesting
+          </Term>
+          ,{" "}
+          <Term definition="A clause in an employment contract that bars a worker from joining a competitor for a set period after leaving.">
+            non-competes
+          </Term>
+          , performance review — outlast the mood.
         </p>
       </Section>
 
@@ -59,7 +86,11 @@ function MachPage() {
           even when policy requires the opposite <Cite>(Machiavelli, Marriott trans., ch. XVIII)</Cite>. The
           modern CEO has inherited this exactly. Public-facing transparency reports, mission statements about
           "doing the right thing," carefully staged town halls — these are the Renaissance virtues in HR clothing.
-          The most Machiavellian move available to a 21st-century executive is to look the least Machiavellian.
+          The most{" "}
+          <Term definition="Describes behavior that is cunning, manipulative, and willing to use deception or harsh tactics to gain or keep power — named after Niccolò Machiavelli.">
+            Machiavellian
+          </Term>{" "}
+          move available to a 21st-century executive is to look the least Machiavellian.
         </p>
       </Section>
 

@@ -1,4 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
+import { Term } from "@/components/Term";
 
 export const Route = createFileRoute("/sun-tzu")({
   head: () => ({
@@ -23,13 +24,21 @@ function SunTzuPage() {
       <Section title="1. Know the terrain — know the market.">
         <p>
           Sun Tzu insists that victory belongs to the commander who reads the ground before stepping on it.
-          Translated into business, the "terrain" is the market itself: the customers, the regulators, the
+          Translated into business, the{" "}
+          <Term definition="In Sun Tzu, the physical ground of battle. In business, the full landscape a company operates in: customers, regulators, competitors, and cultural mood.">
+            "terrain"
+          </Term>{" "}
+          is the market itself: the customers, the regulators, the
           competitors, the cultural mood. A founder launching a product without studying the terrain is, by
           Sun Tzu's standard, already defeated <Cite>(Tzu, Griffith trans., ch. X)</Cite>.
         </p>
         <p>
           From a marketing standpoint this becomes literal: you must know who you are speaking to (the terrain)
-          and who else is speaking to them (the opponent). A strong strategist with a smaller budget can still
+          and who else is speaking to them (the opponent). A strong{" "}
+          <Term definition="A person who plans long-term moves to gain advantage, weighing strengths, weaknesses, timing, and the moves of others — not just executing tactics.">
+            strategist
+          </Term>{" "}
+          with a smaller budget can still
           win because they have mapped the ground their rival is fumbling across blindly.
         </p>
       </Section>
@@ -38,7 +47,10 @@ function SunTzuPage() {
         <p>
           The most quoted line of <em>The Art of War</em> — "the supreme art of war is to subdue the enemy without
           fighting" — is also the one most aggressively applied in modern business. Mark McNeilly translates it as
-          the principle of capturing markets through innovation rather than through price wars
+          the principle of capturing markets through innovation rather than through{" "}
+          <Term definition="A competitive race in which rivals repeatedly cut prices to undercut each other, often shrinking everyone's profit until only the cheapest survives.">
+            price wars
+          </Term>
           <Cite>(McNeilly 23–46)</Cite>.
         </p>
         <p>
@@ -50,7 +62,11 @@ function SunTzuPage() {
 
       <Section title="3. Attack weakness, not strength.">
         <p>
-          Sun Tzu warns against frontal assault on a fortified position. McNeilly maps this directly onto
+          Sun Tzu warns against{" "}
+          <Term definition="A direct, head-on attack against the strongest, most defended part of an opponent — usually costly and rarely decisive.">
+            frontal assault
+          </Term>{" "}
+          on a fortified position. McNeilly maps this directly onto
           competitive strategy — exploit a competitor's strategic gaps instead of meeting their strengths
           <Cite>(McNeilly 71–94)</Cite>. Microsoft's early dominance, he argues, came not from out-engineering IBM
           but from occupying the operating-system seat that IBM had left lightly defended.
@@ -60,8 +76,15 @@ function SunTzuPage() {
       <Section title="4. Speed and psychological dominance.">
         <p>
           Sun Tzu prizes speed: a campaign drawn out too long drains the treasury and the morale of the troops
-          <Cite>(Tzu, Griffith trans., ch. II)</Cite>. In the modern startup vocabulary this is "shipping fast,"
-          "first-mover advantage," and "blitzscaling." The psychological half is just as old: a competitor who
+          <Cite>(Tzu, Griffith trans., ch. II)</Cite>. In the modern startup vocabulary this is "shipping fast,"{" "}
+          <Term definition="The competitive edge a company gains by being the first to enter a new market — capturing customers, brand recognition, and key partnerships before rivals arrive.">
+            "first-mover advantage,"
+          </Term>{" "}
+          and{" "}
+          <Term definition="A startup tactic, coined by Reid Hoffman, of prioritizing breakneck growth over efficiency in order to dominate a market before competitors can react.">
+            "blitzscaling."
+          </Term>{" "}
+          The psychological half is just as old: a competitor who
           believes they have already lost will stop investing in the fight.
         </p>
       </Section>
