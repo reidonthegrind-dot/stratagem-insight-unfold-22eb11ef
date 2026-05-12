@@ -130,13 +130,12 @@ function ThinkerCard({ to, tag, name, work, line, accent }: { to: "/sun-tzu" | "
   );
 }
 
-function Finding({ n, title, body, cite }: { n: string; title: string; body: string; cite: string }) {
+function Finding({ n, title, body }: { n: string; title: string; body: string }) {
   return (
     <article className="rounded-xl border border-border bg-card p-6">
       <p className="font-mono text-xs text-accent">{n}</p>
       <h3 className="mt-2 font-display text-2xl">{title}</h3>
       <p className="mt-3 text-sm text-muted-foreground">{body}</p>
-      <p className="mt-4 font-mono text-xs text-muted-foreground">{cite}</p>
     </article>
   );
 }
