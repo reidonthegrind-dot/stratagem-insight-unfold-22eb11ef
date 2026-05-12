@@ -17,8 +17,8 @@ function MachPage() {
       <p className="font-mono text-xs uppercase tracking-[0.3em] text-crimson">The Western Prince</p>
       <h1 className="mt-3 font-display text-5xl md:text-6xl">Machiavelli in the C-Suite</h1>
       <p className="mt-6 text-lg text-muted-foreground">
-        <em>The Prince</em> is not a manual for being good — it is a manual for staying in power.
-        Read in 2026 with a corporate org chart instead of a Florentine map, it is uncomfortably current.
+        <em>The Prince</em> is not a guide for being a good person. It is a guide for staying in power.
+        Read today, with a company org chart in place of an old map of Florence, it feels surprisingly modern.
       </p>
 
       <Section title="1. The primary duty: stability of the state.">
