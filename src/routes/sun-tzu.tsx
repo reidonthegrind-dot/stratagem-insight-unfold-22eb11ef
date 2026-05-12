@@ -51,8 +51,7 @@ function SunTzuPage() {
           a market by inventing something new instead of starting{" "}
           <Term definition="A competitive race in which rivals repeatedly cut prices to undercut each other, often shrinking everyone's profit until only the cheapest survives.">
             price wars
-          </Term>
-          <Cite>(McNeilly 23–46)</Cite>.
+          .
         </p>
         <p>
           Apple's iPhone launch is McNeilly's main example. Apple did not try to beat Nokia or BlackBerry
