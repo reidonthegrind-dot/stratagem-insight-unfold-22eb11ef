@@ -23,8 +23,8 @@ function MachPage() {
 
       <Section title="1. The first job: keep the state alive.">
         <p>
-          Machiavelli's prince has one main job: make sure his state survives
-          <Cite>(Machiavelli, Marriott trans., ch. III)</Cite>. The modern version is easy to see.
+          Machiavelli's prince has one main job: make sure his state survives.
+          The modern version is easy to see.
           A CEO's first job, in the eyes of the board, is to keep the company strong and{" "}
           <Term definition="A company's ability to pay its debts and keep operating without going bankrupt.">
             solvent
@@ -48,8 +48,8 @@ function MachPage() {
           <Term definition="Machiavelli's image of the leader who relies on cunning, deception, and pattern-recognition to spot traps — clever but unable to fight off real predators alone.">
             fox
           </Term>{" "}
-          (to spot traps)
-          <Cite>(Machiavelli, Marriott trans., ch. XVIII)</Cite>. Today's CEO does both jobs every week.
+          (to spot traps).
+          Today's CEO does both jobs every week.
           The lion shows up in the big speech to staff and in the press. The fox shows up in private
           meetings, in legal moves, and in the timing of an{" "}
           <Term definition="When one company buys another and absorbs its assets, employees, or product line.">
@@ -85,7 +85,7 @@ function MachPage() {
       <Section title="4. Acting the part.">
         <p>
           Machiavelli is blunt. A prince has to <em>look</em> kind, honest, caring, and good, even when
-          his actual choices are the opposite <Cite>(Machiavelli, Marriott trans., ch. XVIII)</Cite>.
+          his actual choices are the opposite.
           Modern CEOs do the same thing. Public reports about openness, mission statements about
           "doing the right thing," and carefully planned town halls are the same old Renaissance idea
           dressed up in HR language. The most{" "}

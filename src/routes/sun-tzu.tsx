@@ -31,7 +31,7 @@ function SunTzuPage() {
           </Term>{" "}
           is the market itself. It includes the customers, the rules, the rival companies, and even
           the mood of the public. A founder who launches a product without studying that ground has,
-          by Sun Tzu's standard, already lost <Cite>(Tzu, Griffith trans., ch. X)</Cite>.
+          by Sun Tzu's standard, already lost.
         </p>
         <p>
           For marketing, this is very direct. You need to know who you are talking to (the terrain) and
@@ -51,8 +51,7 @@ function SunTzuPage() {
           a market by inventing something new instead of starting{" "}
           <Term definition="A competitive race in which rivals repeatedly cut prices to undercut each other, often shrinking everyone's profit until only the cheapest survives.">
             price wars
-          </Term>
-          <Cite>(McNeilly 23–46)</Cite>.
+          </Term>.
         </p>
         <p>
           Apple's iPhone launch is McNeilly's main example. Apple did not try to beat Nokia or BlackBerry
@@ -69,16 +68,16 @@ function SunTzuPage() {
             frontal assault
           </Term>{" "}
           on a strong position. McNeilly applies this idea to business by saying you should look for the
-          gaps a rival has left open instead of fighting them where they are strongest
-          <Cite>(McNeilly 71–94)</Cite>. He says Microsoft did not win by building better tech than IBM.
+          gaps a rival has left open instead of fighting them where they are strongest.
+          He says Microsoft did not win by building better tech than IBM.
           It won by claiming the operating system, a spot IBM was barely guarding.
         </p>
       </Section>
 
       <Section title="4. Speed and the mind game.">
         <p>
-          Sun Tzu values speed. A war that drags on too long burns through money and wears down the soldiers
-          <Cite>(Tzu, Griffith trans., ch. II)</Cite>. In the startup world today, people call this
+          Sun Tzu values speed. A war that drags on too long burns through money and wears down the soldiers.
+          In the startup world today, people call this
           "shipping fast,"{" "}
           <Term definition="The competitive edge a company gains by being the first to enter a new market — capturing customers, brand recognition, and key partnerships before rivals arrive.">
             "first-mover advantage,"
