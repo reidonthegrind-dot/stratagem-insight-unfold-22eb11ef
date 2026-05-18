@@ -17,77 +17,77 @@ function SunTzuPage() {
       <p className="font-mono text-xs uppercase tracking-[0.3em] text-jade">The Eastern General</p>
       <h1 className="mt-3 font-display text-5xl md:text-6xl">Sun Tzu in the Boardroom</h1>
       <p className="mt-6 text-lg text-muted-foreground">
-        More than two thousand years after it was written, <em>The Art of War</em> still reads like a
-        guide for entering a new market. Sun Tzu's main point is simple: the smartest general wins the
-        fight before it even begins.
+        <em>The Art of War</em> is over 2,000 years old and somehow still reads like a guide for
+        launching a startup. Sun Tzu's main idea is pretty simple: the best general doesn't barely win
+        a hard fight. The best general wins before the fight even starts.
       </p>
 
-      <Section title="1. Know the terrain — know the market.">
+      <Section title="1. Know the ground you're standing on.">
         <p>
-          Sun Tzu says victory belongs to the leader who studies the ground before stepping onto it.
-          In business, the{" "}
+          Sun Tzu says you can't win a battle if you don't know the land you're fighting on. In
+          business, that "land" is the{" "}
           <Term definition="In Sun Tzu, the physical ground of battle. In business, the full landscape a company operates in: customers, regulators, competitors, and cultural mood.">
-            "terrain"
+            market
           </Term>{" "}
-          is the market itself. It includes the customers, the rules, the rival companies, and even
-          the mood of the public. A founder who launches a product without studying that ground has,
-          by Sun Tzu's standard, already lost.
+          itself. Who your customers are, what the laws are, what your rivals are doing, even what
+          mood people are in. A founder who skips all that and just launches something has, by Sun
+          Tzu's rules, already kind of lost.
         </p>
         <p>
-          For marketing, this is very direct. You need to know who you are talking to (the terrain) and
-          who else is talking to them (the rival). A smart{" "}
+          For marketing, this is super direct. You need to know who you're actually talking to, and
+          who else is talking to them. A clever{" "}
           <Term definition="A person who plans long-term moves to gain advantage, weighing strengths, weaknesses, timing, and the moves of others — not just executing tactics.">
             strategist
           </Term>{" "}
-          with a smaller budget can still win, because they understand the ground their rival is
-          stumbling across.
+          with way less money can still win, because they actually understand the ground their richer
+          rival is tripping over.
         </p>
       </Section>
 
-      <Section title="2. Win without fighting.">
+      <Section title="2. The best win is the one you don't have to fight for.">
         <p>
-          The most famous line in <em>The Art of War</em> says that the best win is one where you beat
-          your enemy without fighting at all. Mark McNeilly turns this into a business rule: take over
-          a market by inventing something new instead of starting{" "}
+          The most quoted line in <em>The Art of War</em> is that the best victory is one where you
+          beat your enemy without actually fighting them. Mark McNeilly turns this into a business
+          rule. Instead of grinding into{" "}
           <Term definition="A competitive race in which rivals repeatedly cut prices to undercut each other, often shrinking everyone's profit until only the cheapest survives.">
             price wars
-          </Term>.
+          </Term>
+          , build something new enough that the fight isn't even on the same field.
         </p>
         <p>
-          Apple's iPhone launch is McNeilly's main example. Apple did not try to beat Nokia or BlackBerry
-          on price. Instead, it changed what people thought a phone should be, and price stopped being
-          the main question. That is winning without fighting. You make the other side's plan useless
-          instead of crashing into it.
+          The iPhone is McNeilly's go-to example. Apple didn't try to undercut Nokia or BlackBerry.
+          They made something that made the question of price kind of irrelevant. That's what winning
+          without fighting actually looks like. You don't beat the other side. You make their plan not
+          matter.
         </p>
       </Section>
 
-      <Section title="3. Attack weakness, not strength.">
+      <Section title="3. Hit where they're weak, not where they're strong.">
         <p>
-          Sun Tzu warns against a{" "}
+          Sun Tzu basically says don't run straight at the wall. Don't throw a{" "}
           <Term definition="A direct, head-on attack against the strongest, most defended part of an opponent — usually costly and rarely decisive.">
             frontal assault
           </Term>{" "}
-          on a strong position. McNeilly applies this idea to business by saying you should look for the
-          gaps a rival has left open instead of fighting them where they are strongest.
-          He says Microsoft did not win by building better tech than IBM.
-          It won by claiming the operating system, a spot IBM was barely guarding.
+          at the strongest part of your enemy. McNeilly's business version: look for the spot your
+          rival isn't really watching. Microsoft didn't beat IBM by building cooler hardware. They
+          quietly grabbed the operating system, which IBM wasn't even guarding that hard.
         </p>
       </Section>
 
-      <Section title="4. Speed and the mind game.">
+      <Section title="4. Move fast, and get in their head.">
         <p>
-          Sun Tzu values speed. A war that drags on too long burns through money and wears down the soldiers.
-          In the startup world today, people call this
-          "shipping fast,"{" "}
+          Sun Tzu hates long wars. The longer the fight, the more it costs and the more tired
+          everyone gets. Today people just call this "shipping fast,"{" "}
           <Term definition="The competitive edge a company gains by being the first to enter a new market — capturing customers, brand recognition, and key partnerships before rivals arrive.">
             "first-mover advantage,"
           </Term>{" "}
-          and{" "}
+          or{" "}
           <Term definition="A startup tactic, coined by Reid Hoffman, of prioritizing breakneck growth over efficiency in order to dominate a market before competitors can react.">
             "blitzscaling."
           </Term>{" "}
-          The mind-game side is just as old. A rival who already feels beaten will stop putting real
-          effort into the fight.
+          Same idea, new label. And the psychological side is just as old. If a rival already thinks
+          they've lost, they stop really trying. Half the battle is making them believe the result
+          before it actually happens.
         </p>
       </Section>
 
