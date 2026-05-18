@@ -39,39 +39,38 @@ function MachPage() {
         </p>
       </Section>
 
-      <Section title="2. The lion and the fox.">
+      <Section title="2. Be a lion and a fox.">
         <p>
-          Machiavelli writes that a leader has to be both a{" "}
+          Machiavelli says a leader has to be both a{" "}
           <Term definition="Machiavelli's image of the leader who relies on raw strength and intimidation to scare off threats — powerful but easily trapped.">
             lion
           </Term>{" "}
-          (to scare off wolves) and a{" "}
+          (strong enough to scare off wolves) and a{" "}
           <Term definition="Machiavelli's image of the leader who relies on cunning, deception, and pattern-recognition to spot traps — clever but unable to fight off real predators alone.">
             fox
           </Term>{" "}
-          (to spot traps).
-          Today's CEO does both jobs every week.
-          The lion shows up in the big speech to staff and in the press. The fox shows up in private
-          meetings, in legal moves, and in the timing of an{" "}
+          (smart enough to see traps coming). A modern CEO basically does both every single week. The
+          lion shows up in the big company-wide speech or the magazine interview. The fox shows up in
+          the quiet meetings where lawyers are in the room and an{" "}
           <Term definition="When one company buys another and absorbs its assets, employees, or product line.">
             acquisition
-          </Term>
-          .
+          </Term>{" "}
+          is being timed just right.
         </p>
       </Section>
 
-      <Section title="3. Feared or loved?">
+      <Section title="3. Should people fear you or love you?">
         <p>
-          Machiavelli's most famous question is whether a leader should be feared or loved. His real
-          answer is that having both is best. But if a leader has to pick one, fear is safer. Love is
-          something other people give you, so they can also take it back. Fear is something you control
-          yourself. Loyalty based on warm feelings can vanish the moment things get hard. Loyalty based
-          on real consequences sticks around.
+          This is Machiavelli's most famous question. His real answer is that both is the dream. But
+          if you can only pick one, go with fear. The reasoning is kind of cold but it makes sense.
+          Love is something other people give you, which means they can also take it away. Fear is
+          something you actually control. Loyalty based on good feelings disappears the second things
+          get rough. Loyalty backed up by real consequences sticks around.
         </p>
         <p>
-          The modern version is easy to spot. Companies that try to run only on the "we're a family"
-          feeling tend to fall apart the second the market turns. Companies that mix real loyalty with
-          real consequences, like{" "}
+          You see this in companies all the time. The ones that try to run purely on "we're a family"
+          energy usually fall apart at the first bad quarter. The ones that mix being a decent
+          workplace with stuff like{" "}
           <Term definition="A schedule that gives employees ownership of company stock gradually over time, so they only fully earn it if they stay long enough.">
             equity vesting
           </Term>
@@ -79,21 +78,22 @@ function MachPage() {
           <Term definition="A clause in an employment contract that bars a worker from joining a competitor for a set period after leaving.">
             non-competes
           </Term>
-          , and performance reviews, last longer than the vibe.
+          , and actual performance reviews tend to hold together longer.
         </p>
       </Section>
 
-      <Section title="4. Acting the part.">
+      <Section title="4. Look the part, even if you're not.">
         <p>
-          Machiavelli is blunt. A prince has to <em>look</em> kind, honest, caring, and good, even when
-          his actual choices are the opposite.
-          Modern CEOs do the same thing. Public reports about openness, mission statements about
-          "doing the right thing," and carefully planned town halls are the same old Renaissance idea
-          dressed up in HR language. The most{" "}
+          Machiavelli doesn't sugarcoat it. A prince has to <em>look</em> kind, honest, and good,
+          even when what he's actually doing is the opposite. Modern CEOs are doing the exact same
+          thing. The transparency reports, the mission statements about "doing the right thing," the
+          carefully scripted town halls? That's just the same Renaissance move with an HR team
+          attached. Honestly, the most{" "}
           <Term definition="Describes behavior that is cunning, manipulative, and willing to use deception or harsh tactics to gain or keep power — named after Niccolò Machiavelli.">
             Machiavellian
           </Term>{" "}
-          thing a CEO can do today is look like they would never do anything Machiavellian.
+          thing a CEO can pull off today is looking like the kind of person who would never do
+          anything Machiavellian.
         </p>
       </Section>
 
