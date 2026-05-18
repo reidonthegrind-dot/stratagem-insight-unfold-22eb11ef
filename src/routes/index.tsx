@@ -91,26 +91,27 @@ function Index() {
 
       {/* Findings preview */}
       <section className="mt-24">
-        <h2 className="font-display text-3xl md:text-4xl">Three findings, one thesis.</h2>
+        <h2 className="font-display text-3xl md:text-4xl">Three things I kept noticing.</h2>
         <p className="mt-3 max-w-2xl text-muted-foreground">
-          Across three sources, one idea keeps showing up: modern business is not just a contest of better
-          products. It is a contest of strategy, image, and timing.
+          After reading these three sources, the same idea kept popping up: business isn't really a
+          contest about who has the best product. It's more about who plans better, who looks better,
+          and who moves at the right time.
         </p>
         <div className="mt-10 grid gap-6 md:grid-cols-3">
           <Finding
             n="01"
-            title="Strategy beats product."
-            body="The best product does not always win. A patient planner with fewer resources can still beat a stronger rival who has no clear plan."
+            title="The best product doesn't always win."
+            body="A smaller company with a smart plan can beat a bigger company that's just kind of winging it. This is basically Sun Tzu's whole thing."
           />
           <Finding
             n="02"
-            title="Image is power."
-            body="Modern CEOs perform openness the same way old rulers performed virtue. How a leader looks to the public is a real tool for keeping control."
+            title="How you look matters as much as what you do."
+            body="CEOs today act caring and open in public the same way old rulers acted holy and fair. It's not always fake, but it's not an accident either."
           />
           <Finding
             n="03"
-            title="Win without fighting."
-            body="Apple did not beat its rivals on price. It captured the market by changing what a phone could be. McNeilly calls this Sun Tzu's first rule in action."
+            title="The smartest move is to skip the fight."
+            body="Apple didn't beat Nokia by making a cheaper phone. They made a different kind of phone, so price didn't even matter. McNeilly calls this Sun Tzu's number one rule."
           />
         </div>
       </section>
