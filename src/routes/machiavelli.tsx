@@ -22,20 +22,20 @@ function MachPage() {
         a lot of it still hits.
       </p>
 
-      <Section title="1. The first job: keep the state alive.">
+      <Section title="1. Job number one: don't let it fall apart.">
         <p>
-          Machiavelli's prince has one main job: make sure his state survives.
-          The modern version is easy to see.
-          A CEO's first job, in the eyes of the board, is to keep the company strong and{" "}
+          For Machiavelli's prince, the only goal that really matters is keeping the state in one
+          piece. The modern version is pretty obvious. A CEO's first job, at least from the board's
+          point of view, is keeping the company alive and{" "}
           <Term definition="A company's ability to pay its debts and keep operating without going bankrupt.">
             solvent
           </Term>
-          . Layoffs, sudden{" "}
+          . That's why layoffs, sudden{" "}
           <Term definition="A deliberate change in a company's strategy, product, or market when the original plan isn't working.">
             pivots
           </Term>
-          , and shutdowns are not seen as wrong inside this view. They are moves that keep the company
-          standing.
+          , and shutting down whole projects don't really count as "wrong" inside this mindset. They
+          count as whatever keeps the lights on.
         </p>
       </Section>
 
