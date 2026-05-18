@@ -22,25 +22,25 @@ function SunTzuPage() {
         a hard fight. The best general wins before the fight even starts.
       </p>
 
-      <Section title="1. Know the terrain — know the market.">
+      <Section title="1. Know the ground you're standing on.">
         <p>
-          Sun Tzu says victory belongs to the leader who studies the ground before stepping onto it.
-          In business, the{" "}
+          Sun Tzu says you can't win a battle if you don't know the land you're fighting on. In
+          business, that "land" is the{" "}
           <Term definition="In Sun Tzu, the physical ground of battle. In business, the full landscape a company operates in: customers, regulators, competitors, and cultural mood.">
-            "terrain"
+            market
           </Term>{" "}
-          is the market itself. It includes the customers, the rules, the rival companies, and even
-          the mood of the public. A founder who launches a product without studying that ground has,
-          by Sun Tzu's standard, already lost.
+          itself. Who your customers are, what the laws are, what your rivals are doing, even what
+          mood people are in. A founder who skips all that and just launches something has, by Sun
+          Tzu's rules, already kind of lost.
         </p>
         <p>
-          For marketing, this is very direct. You need to know who you are talking to (the terrain) and
-          who else is talking to them (the rival). A smart{" "}
+          For marketing, this is super direct. You need to know who you're actually talking to, and
+          who else is talking to them. A clever{" "}
           <Term definition="A person who plans long-term moves to gain advantage, weighing strengths, weaknesses, timing, and the moves of others — not just executing tactics.">
             strategist
           </Term>{" "}
-          with a smaller budget can still win, because they understand the ground their rival is
-          stumbling across.
+          with way less money can still win, because they actually understand the ground their richer
+          rival is tripping over.
         </p>
       </Section>
 
