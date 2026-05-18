@@ -22,11 +22,11 @@ function MachPage() {
         a lot of it still hits.
       </p>
 
-      <Section title="1. Job number one: don't let it fall apart.">
+      <section className="mt-12 space-y-4 text-foreground/90 leading-relaxed text-lg">
         <p>
-          For Machiavelli's prince, the only goal that really matters is keeping the state in one
-          piece. The modern version is pretty obvious. A CEO's first job, at least from the board's
-          point of view, is keeping the company alive and{" "}
+          Machiavelli's whole thing is staying in power once you've got it. The first job of his
+          prince is keeping the state in one piece, which in modern terms is keeping the company
+          alive and{" "}
           <Term definition="A company's ability to pay its debts and keep operating without going bankrupt.">
             solvent
           </Term>
@@ -34,43 +34,24 @@ function MachPage() {
           <Term definition="A deliberate change in a company's strategy, product, or market when the original plan isn't working.">
             pivots
           </Term>
-          , and shutting down whole projects don't really count as "wrong" inside this mindset. They
-          count as whatever keeps the lights on.
-        </p>
-      </Section>
-
-      <Section title="2. Be a lion and a fox.">
-        <p>
-          Machiavelli says a leader has to be both a{" "}
+          , and shutting down projects don't really count as "wrong" inside this mindset, they count
+          as whatever keeps the lights on. He says a leader has to be both a{" "}
           <Term definition="Machiavelli's image of the leader who relies on raw strength and intimidation to scare off threats — powerful but easily trapped.">
             lion
           </Term>{" "}
-          (strong enough to scare off wolves) and a{" "}
+          and a{" "}
           <Term definition="Machiavelli's image of the leader who relies on cunning, deception, and pattern-recognition to spot traps — clever but unable to fight off real predators alone.">
             fox
-          </Term>{" "}
-          (smart enough to see traps coming). A modern CEO basically does both every single week. The
-          lion shows up in the big company-wide speech or the magazine interview. The fox shows up in
-          the quiet meetings where lawyers are in the room and an{" "}
+          </Term>
+          , and CEOs basically do both every week, the lion in the big speech and the fox in the
+          quiet meetings where lawyers are timing an{" "}
           <Term definition="When one company buys another and absorbs its assets, employees, or product line.">
             acquisition
-          </Term>{" "}
-          is being timed just right.
-        </p>
-      </Section>
-
-      <Section title="3. Should people fear you or love you?">
-        <p>
-          This is Machiavelli's most famous question. His real answer is that both is the dream. But
-          if you can only pick one, go with fear. The reasoning is kind of cold but it makes sense.
-          Love is something other people give you, which means they can also take it away. Fear is
-          something you actually control. Loyalty based on good feelings disappears the second things
-          get rough. Loyalty backed up by real consequences sticks around.
-        </p>
-        <p>
-          You see this in companies all the time. The ones that try to run purely on "we're a family"
-          energy usually fall apart at the first bad quarter. The ones that mix being a decent
-          workplace with stuff like{" "}
+          </Term>
+          . His most famous question is whether a leader should be feared or loved, and his answer is
+          that fear is safer because love can be taken back but fear is something you actually
+          control. You can see this in companies that try to run on pure "we're a family" energy and
+          fall apart at the first bad quarter, versus ones that back loyalty up with{" "}
           <Term definition="A schedule that gives employees ownership of company stock gradually over time, so they only fully earn it if they stay long enough.">
             equity vesting
           </Term>
@@ -78,24 +59,16 @@ function MachPage() {
           <Term definition="A clause in an employment contract that bars a worker from joining a competitor for a set period after leaving.">
             non-competes
           </Term>
-          , and actual performance reviews tend to hold together longer.
-        </p>
-      </Section>
-
-      <Section title="4. Look the part, even if you're not.">
-        <p>
-          Machiavelli doesn't sugarcoat it. A prince has to <em>look</em> kind, honest, and good,
-          even when what he's actually doing is the opposite. Modern CEOs are doing the exact same
-          thing. The transparency reports, the mission statements about "doing the right thing," the
-          carefully scripted town halls? That's just the same Renaissance move with an HR team
-          attached. Honestly, the most{" "}
+          , and real performance reviews. And Machiavelli's last big move is image. A prince has to{" "}
+          <em>look</em> kind and honest even when his actual choices aren't, which is exactly what
+          modern transparency reports and mission statements are doing. The most{" "}
           <Term definition="Describes behavior that is cunning, manipulative, and willing to use deception or harsh tactics to gain or keep power — named after Niccolò Machiavelli.">
             Machiavellian
           </Term>{" "}
           thing a CEO can pull off today is looking like the kind of person who would never do
           anything Machiavellian.
         </p>
-      </Section>
+      </section>
 
       <Pullquote>
         Modern business preaches openness. The Prince teaches how to perform it.
