@@ -22,62 +22,34 @@ function SunTzuPage() {
         a hard fight. The best general wins before the fight even starts.
       </p>
 
-      <Section title="1. Know the ground you're standing on.">
+      <section className="mt-12 space-y-4 text-foreground/90 leading-relaxed text-lg">
         <p>
-          Sun Tzu says you can't win a battle if you don't know the land you're fighting on. In
-          business, that "land" is the{" "}
+          Sun Tzu's whole idea is that the best general wins before the fight even starts, and he
+          gets there by really knowing the ground he's standing on. In business, that ground is the{" "}
           <Term definition="In Sun Tzu, the physical ground of battle. In business, the full landscape a company operates in: customers, regulators, competitors, and cultural mood.">
             market
           </Term>{" "}
-          itself. Who your customers are, what the laws are, what your rivals are doing, even what
-          mood people are in. A founder who skips all that and just launches something has, by Sun
-          Tzu's rules, already kind of lost.
-        </p>
-        <p>
-          For marketing, this is super direct. You need to know who you're actually talking to, and
-          who else is talking to them. A clever{" "}
+          itself, the customers, the rules, the rivals, even what mood people are in. A clever{" "}
           <Term definition="A person who plans long-term moves to gain advantage, weighing strengths, weaknesses, timing, and the moves of others — not just executing tactics.">
             strategist
           </Term>{" "}
-          with way less money can still win, because they actually understand the ground their richer
-          rival is tripping over.
-        </p>
-      </Section>
-
-      <Section title="2. The best win is the one you don't have to fight for.">
-        <p>
-          The most quoted line in <em>The Art of War</em> is that the best victory is one where you
-          beat your enemy without actually fighting them. Mark McNeilly turns this into a business
-          rule. Instead of grinding into{" "}
+          with way less money can still beat a bigger rival that doesn't really understand the ground
+          it's tripping over. From there his most famous line is that the best win is the one where
+          you don't have to fight at all, and Mark McNeilly turns this into a business rule: instead
+          of grinding into{" "}
           <Term definition="A competitive race in which rivals repeatedly cut prices to undercut each other, often shrinking everyone's profit until only the cheapest survives.">
             price wars
           </Term>
-          , build something new enough that the fight isn't even on the same field.
-        </p>
-        <p>
-          The iPhone is McNeilly's go-to example. Apple didn't try to undercut Nokia or BlackBerry.
-          They made something that made the question of price kind of irrelevant. That's what winning
-          without fighting actually looks like. You don't beat the other side. You make their plan not
-          matter.
-        </p>
-      </Section>
-
-      <Section title="3. Hit where they're weak, not where they're strong.">
-        <p>
-          Sun Tzu basically says don't run straight at the wall. Don't throw a{" "}
+          , build something new enough that the fight isn't even on the same field. The iPhone is
+          McNeilly's go-to example, since Apple didn't try to undercut Nokia, they just made price
+          kind of irrelevant. Sun Tzu also warns against running straight at the wall with a{" "}
           <Term definition="A direct, head-on attack against the strongest, most defended part of an opponent — usually costly and rarely decisive.">
             frontal assault
           </Term>{" "}
-          at the strongest part of your enemy. McNeilly's business version: look for the spot your
-          rival isn't really watching. Microsoft didn't beat IBM by building cooler hardware. They
-          quietly grabbed the operating system, which IBM wasn't even guarding that hard.
-        </p>
-      </Section>
-
-      <Section title="4. Move fast, and get in their head.">
-        <p>
-          Sun Tzu hates long wars. The longer the fight, the more it costs and the more tired
-          everyone gets. Today people just call this "shipping fast,"{" "}
+          on a strong position, and McNeilly's version is that Microsoft didn't beat IBM on hardware,
+          they grabbed the operating system, which IBM wasn't even guarding. The last big piece is
+          speed, since long wars burn through everything. Today people just call this "shipping
+          fast,"{" "}
           <Term definition="The competitive edge a company gains by being the first to enter a new market — capturing customers, brand recognition, and key partnerships before rivals arrive.">
             "first-mover advantage,"
           </Term>{" "}
@@ -85,11 +57,10 @@ function SunTzuPage() {
           <Term definition="A startup tactic, coined by Reid Hoffman, of prioritizing breakneck growth over efficiency in order to dominate a market before competitors can react.">
             "blitzscaling."
           </Term>{" "}
-          Same idea, new label. And the psychological side is just as old. If a rival already thinks
-          they've lost, they stop really trying. Half the battle is making them believe the result
-          before it actually happens.
+          And the psychological side is just as old, because if a rival already thinks they've lost,
+          they stop really trying.
         </p>
-      </Section>
+      </section>
 
       <Pullquote>
         Having the best product doesn't mean you will win. A strong strategist can win while being down.
