@@ -17,9 +17,9 @@ function SunTzuPage() {
       <p className="font-mono text-xs uppercase tracking-[0.3em] text-jade">The Eastern General</p>
       <h1 className="mt-3 font-display text-5xl md:text-6xl">Sun Tzu in the Boardroom</h1>
       <p className="mt-6 text-lg text-muted-foreground">
-        More than two thousand years after it was written, <em>The Art of War</em> still reads like a
-        guide for entering a new market. Sun Tzu's main point is simple: the smartest general wins the
-        fight before it even begins.
+        <em>The Art of War</em> is over 2,000 years old and somehow still reads like a guide for
+        launching a startup. Sun Tzu's main idea is pretty simple: the best general doesn't barely win
+        a hard fight. The best general wins before the fight even starts.
       </p>
 
       <Section title="1. Know the terrain — know the market.">
